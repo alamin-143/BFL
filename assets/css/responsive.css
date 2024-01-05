@@ -1,0 +1,1035 @@
+@media (min-width: 1400px) {
+    .homepage_two .container {
+        max-width: 1290px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .para__style {
+        font-size: 18px;
+    }
+    /* hero area start here */
+    .hero__img_1 .photo,
+    .hero__img_3 .photo {
+        width: 300px;
+    }
+    .hero__img_1 .text {
+        left: 46px;
+        bottom: 90px;
+        width: 280px;
+    }
+    .hero__area .hero__img_2 {
+        top: 140px;
+    }
+    .hero__img_2 .photo {
+        width: 130px;
+    }
+    .hero__img_2 .text {
+        left: -170px;
+        width: 200px;
+    }
+    .hero__area .hero__img_4 {
+        right: -30px;
+    }
+    .hero__area .hero__img_4 img {
+        width: 220px;
+    }
+    .hero__area .hero__img_3 .text {
+        width: 350px;
+    }
+    .hero__play__icon {
+        height: 120px;
+        width: 120px;
+    }
+    .venoratio.venoratio-16x9.vbox-child {
+        width: 600px;
+    }
+    /* hero area end here */
+
+    .explore__card:not(:first-child) .explore__card--desc {
+        font-size: 20px;
+    }
+    .adventure__area--title img {
+        width: 650px;
+    }
+    .testimonial__wrapper {
+        grid-template-columns: 376px auto;
+    }
+    .testimonial__card__wrapper .testimonial {
+        width: 450px;
+    }
+    .testimonial__card__wrapper.owl-carousel .owl-nav.disabled {
+        left: -430px;
+    }
+    .footer__brand {
+        padding-left: 230px;
+    }
+
+    /* home page two start here */
+    .header__area_2 .hero__area {
+        height: auto !important;
+    }
+    .section__title {
+        font-size: 55px;
+    }
+    .header__area_2 .brand__area {
+        margin-left: 200px;
+    }
+    .experience__area__title h2 {
+        flex-basis: 680px;
+    }
+    .experience__area__title p {
+        flex-basis: calc(100% - 680px);
+    }
+    /* home page two end here */
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+   
+    .para__style {
+        font-size: 16px;
+    }
+    .header__area {
+        height: 980px;
+    }
+    .logo__area .bfl img {
+        width: 140px;
+    }
+    .logo__area .nfl img {
+        width: 200px;
+    }
+    .header__bottom .header__bottom--img {
+        width: 500px;
+    }
+    /* hero area start here */
+    .hero__area {
+        height: 800px;
+    }
+    .hero__area .hero__img_1 {
+        top: 350px;
+    }
+    .hero__img_1 .photo, .hero__img_3 .photo {
+        width: 280px;
+    }
+    .hero__img_1 .text {
+        left: 50px;
+        bottom: 115px;
+        width: 250px;
+    }
+    .hero__area .hero__img_2 {
+        top: 190px;
+    }
+    .hero__img_2 .photo {
+        width: 130px;
+    }
+    .hero__img_2 .text {
+        left: -170px;
+        width: 200px;
+    }
+    .hero__area .hero__img_3 .text {
+        width: 350px;
+    }
+    .hero__play__icon {
+        height: 90px;
+        width: 90px;
+        bottom: 204px;
+    }
+    .hero__play__icon img {
+        width: 25px;
+    }
+    .hero__area .hero__img_4 img {
+        width: 180px;
+    }
+    .venoratio.venoratio-16x9.vbox-child {
+        width: 600px;
+    }
+    /* hero area end here */
+    .explore__wrapper {
+        padding-top: 160px;
+    }
+    .explore__area--title {
+        margin-top: 0px;
+    }
+    .explore__area--title .title__text {
+        width: 530px;
+    }
+    .explore__wrapper .explore__card:first-child .explore__card--photo img {
+        height: 350px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) .explore__card--photo img {
+        border-radius: 0px 32px 32px 32px;
+        height: 300px;
+    }
+    .explore__card:not(:first-child) .explore__card--desc {
+        font-size: 18px;
+    }
+    .explore__wrapper .explore__card:first-child {
+        padding-right: 30px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) {
+        padding-right: 20px;
+    }
+    .explore__card .explore__card--desc {
+        margin-bottom: 30px;
+    }
+    .explore__card--icon img {
+        width: 100px;
+    }
+    .adventure__area--title img {
+        width: 500px;
+    }
+    .adventure__area--title h2 {
+        font-size: 50px;
+        font-style: normal;
+    }
+    .adventure__card__area--wrapper {
+        gap: 30px;
+        padding-bottom: 100px;
+    }
+    .adventure__card--wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px 20px;
+    }
+    .adventure__desc {
+        padding-top: 110px;
+    }
+    .testimonial__area--title h2 {
+        font-size: 50px;
+    }
+    .testimonial__wrapper {
+        grid-template-columns: 310px auto;
+        gap: 25px;
+    }
+    .testimonial__area--title p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .testimonial__card__wrapper .testimonial {
+        width: 420px;
+        padding: 40px 0px 40px 40px;
+    }
+    .testimonial__area--title h2 {
+        margin-bottom: 15px;
+    }
+    .testimonial__card__wrapper.owl-carousel .owl-nav.disabled {
+        left: -335px;
+    }
+    .footer__menu__area .logo__area .logo .bfl {
+        width: 140px;
+        height: auto;
+    }
+    .footer__menu__area .logo__area .logo .nfl {
+        width: 200px;
+        height: auto;
+    }
+    .footer__menu__area .menu {
+        gap: 60px !important;
+    }
+    .footer__widget__wrapper {
+        gap: 20px;
+        justify-content: space-between;
+    }
+    .footer__widget__wrapper .footer__widget a {
+        font-size: 13px !important;
+    }
+    .footer__brand {
+        padding-left: 150px;
+    }
+    
+
+    /* home page two start here */
+    .header__area_2 .hero__area {
+        height: auto !important;
+    }
+    .section__title {
+        font-size: 48px;
+    }
+    .para__style__two {
+        font-size: 18px;
+    }
+    .header__area_2 .hero__desc h1 {
+        font-size: 110px;
+    }
+    .header__area_2 .brand__area {
+        margin-left: 115px;
+    }
+    .experience__area__title h2 {
+        flex-basis: 60%;
+    }
+    .experience__area__title p {
+        flex-basis: 40%;
+    }
+    .experience__card__wrapper {
+        grid-template-columns: 330px auto;
+        gap: 25px;
+    }
+    .experience__card__wrapper--two .single__card--wrapper {
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    .experience__card__wrapper--two {
+        gap: 20px;
+    }
+    .experience__card--desc {
+        padding: 0px 37px 46px 25px;
+    }
+    .experience__card--desc h3 {
+        font-size: 35px;
+        line-height: 1;
+    }
+    .explore__photo .explore__photo--text {
+        font-size: 115px;
+        bottom: -120px;
+    }
+    .explore__wrapper .explore__photo .explore__photo--img {
+        height: 465px;
+    }
+    .testimonial__wrapper--two .testimonial__area--title h2 {
+        font-size: 50px;
+        line-height: 65.277px;
+    }
+    /* home page two end here */
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+   
+    .para__style {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .header__area {
+        height: 900px;
+    }
+    .logo__area .bfl img {
+        width: 140px;
+    }
+    .logo__area .nfl img {
+        width: 200px;
+    }
+    .header__bottom .header__bottom--img {
+        width: 420px;
+    }
+    /* hero area start here */
+    .hero__area {
+        height: 650px;
+    }
+    .hero__area .hero__img_1 {
+        top: 350px;
+        left: 30px;
+    }
+    .hero__img_1 .photo, .hero__img_3 .photo {
+        width: 200px;
+    }
+    .hero__img_1 .text {
+        left: 20px;
+        bottom: 180px;
+        width: 200px;
+    }
+    .hero__area .hero__img_2 {
+        top: 150px;
+        left: 30%;
+    }
+    .hero__img_2 .photo {
+        width: 130px;
+    }
+    .hero__img_2 .text {
+        left: -128px;
+        width: 150px;
+        top: 40px;
+    }
+    .hero__area .hero__img_3 .text {
+        width: 250px;
+        top: 115px;
+    }
+    .hero__play__icon {
+        height: 90px;
+        width: 90px;
+        bottom: 170px;
+    }
+    .hero__play__icon img {
+        width: 25px;
+    }
+    .hero__area .hero__img_4 img {
+        width: 150px;
+    }
+    .hero__area .hero__img_4 {
+        right: 0px;
+        bottom: 125px;
+    }
+    .venoratio.venoratio-16x9.vbox-child {
+        width: 600px;
+    }
+    .vbox-close {
+        right: 5%;
+    }
+    /* hero area end here */
+    .explore__wrapper {
+        padding-top: 120px;
+    }
+    .explore__area--title {
+        margin-top: 0px;
+    }
+    .explore__area--title .title__text {
+        width: 470px;
+    }
+    .explore__card:first-child .explore__card--desc {
+        font-size: 13px;
+    }
+    .explore__card:first-child .explore__card--desc .para__style {
+        font-size: 13px;
+    }
+    .explore__card:not(:first-child) .explore__card--desc {
+        font-size: 14px;
+    }
+    .explore__wrapper .explore__card:first-child {
+        padding-right: 20px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) {
+        padding-right: 20px;
+    }
+    .explore__wrapper .explore__card:first-child .explore__card--photo img {
+        height: 300px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) .explore__card--photo img {
+        height: 270px;
+    }
+    .explore__card .explore__card--desc {
+        margin-bottom: 20px;
+    }
+    .explore__card--icon img {
+        width: 70px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) .explore__card--icon img {
+        padding: 20px 0px;
+    }
+    .explore__card--photo .explore__card--photo--text {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .adventure__area--title img {
+        width: 400px;
+    }
+    .adventure__area--title {
+        padding: 30px 0px;
+    }
+    .adventure__area--title h2 {
+        font-size: 40px;
+        font-style: normal;
+    }
+    .adventure__card__area--wrapper {
+        gap: 30px;
+        padding-bottom: 80px;
+    }
+    .adventure__card--wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px 20px;
+        margin-top: 0;
+    }
+    .adventure__desc {
+        padding-top: 80px;
+    }
+    .adventure__card h3 {
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .adventure__card .adventure__card--btn {
+        width: 55px;
+        height: 55px;
+    }
+    .testimonial__area {
+        padding: 70px 0px 90px 0px;
+    }
+    .testimonial__wrapper {
+        grid-template-columns: 270px auto;
+        gap: 25px;
+    }
+    .testimonial__area--title p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .testimonial__card__wrapper .testimonial {
+        width: 350px;
+        padding: 30px 0px 30px 30px;
+    }
+    .testimonial__area--title h2 {
+        margin-bottom: 15px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .testimonial__card__wrapper.owl-carousel .owl-nav.disabled {
+        left: -295px;
+    }
+    .testimonial .testimonial__rating {
+        gap: 5px;
+    }
+    .testimonial .testimonial__rating img {
+        width: 30px;
+    }
+    .owl-nav button.owl-next, .owl-nav button.owl-prev {
+        height: 45px;
+        width: 45px;
+    }
+    .owl-nav button.owl-next img, .owl-nav button.owl-prev img {
+        width: 30px;
+    }
+    .footer__area {
+        padding-top: 70px;
+    }
+    .menu__wrapper {
+        gap: 30px;
+    }
+
+    .footer__menu__area .logo__area .logo .bfl {
+        width: 140px;
+        height: auto;
+    }
+    .footer__menu__area .logo__area .logo .nfl {
+        width: 200px;
+        height: auto;
+    }
+    .footer__menu__area .menu {
+        gap: 60px !important;
+    }
+    .footer__widget__wrapper {
+        gap: 20px;
+        justify-content: space-between;
+    }
+    .footer__widget__wrapper .footer__widget a {
+        font-size: 13px !important;
+    }
+    .footer__brand {
+        padding-left: 0px;
+    }
+
+
+     /* home page two start here */
+    .header__area_2 .hero__area {
+        height: auto !important;
+    }
+    .section__title {
+        font-size: 37px;
+        line-height: 50px;
+    }
+    .para__style__two {
+        font-size: 16px;
+    }
+    .header__area_2 .hero__desc h1 {
+        font-size: 85px;
+        line-height: 1;
+    }
+    .header__area_2 .hero__desc {
+        padding: 80px 0px 130px;
+    }
+    .header__area_2 .brand__area {
+        margin-left: 0px;
+    }
+    .brand__area .brand__img--one {
+        width: 200px;
+    }
+    .brand__area .brand__img--two {
+        width: 120px;
+    }
+    .brand__area .brand__img--three {
+        width: 130px;
+    }
+    .brand__area .brand__img--four {
+        width: 130px;
+    }
+    .experience__area {
+        padding: 70px 0px 38px;
+    }
+    .experience__area__title h2 {
+        flex-basis: 60%;
+    }
+    .experience__area__title p {
+        flex-basis: 40%;
+    }
+    .experience__card__wrapper {
+        grid-template-columns: 330px auto;
+        gap: 25px;
+    }
+    .experience__card__wrapper--two .single__card--wrapper {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        grid-template-rows: 260px 260px;
+    }
+    .experience__card__wrapper--two {
+        gap: 20px;
+        grid-template-rows: 250px auto;
+    }
+    .experience__card--desc {
+        padding: 0px 37px 46px 25px;
+    }
+    .experience__card--desc h3 {
+        font-size: 35px;
+        line-height: 1;
+    }
+    .explore__photo .explore__photo--text {
+        font-size: 80px;
+        bottom: -133px;
+    }
+    .explore__wrapper .explore__photo .explore__photo--img {
+        height: 360px;
+    }
+    .explore__wrapper--container .owl-nav button.owl-next, .explore__wrapper--container .owl-nav button.owl-prev {
+        top: 30%;
+    }
+    .explore__desc {
+        padding: 30px 35px 30px 48px;
+    }
+    .explore__await__area {
+        padding-bottom: 70px;
+    }
+    .about__area {
+        padding: 70px 0 110px 0;
+    }
+    .about__card {
+        gap: 40px;
+    }
+    .about__card .about__card--desc p {
+        font-size: 40px;
+    }
+    .testimonial__wrapper--two .testimonial__area--title h2 {
+        font-size: 40px;
+        line-height: 45.277px;
+    }
+    /* home page two end here */
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    
+    .para__style {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .header__area {
+        height: 750px;
+    }
+    .logo__area .bfl img {
+        width: 100px;
+    }
+    .logo__area .nfl img {
+        width: 160px;
+    }
+    .header__bottom .header__bottom--img {
+        width: 370px;
+    }
+    .header__bottom {
+        bottom: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /* hero area start here */
+    .hero__area {
+        height: 550px;
+    }
+    .hero__area .hero__img_1 {
+        top: 280px;
+        left: -6px;
+    }
+    .hero__img_1 .photo, .hero__img_3 .photo {
+        width: 130px;
+        border-radius: 20px;
+    }
+    .hero__img .photo {
+        border: 3px solid #fff;
+    }
+    .hero__img_1 .text {
+        left: 20px;
+        bottom: 230px;
+        width: 125px;
+    }
+    .hero__area .hero__img_2 {
+        top: 130px;
+        left: 15%;
+    }
+    .hero__img_2 .photo {
+        width: 90px;
+    }
+    .hero__img_2 .text {
+        left: -60px;
+        width: 110px;
+        top: 46px;
+    }
+    .hero__area .hero__img_3 .text {
+        width: 182px;
+        top: 122px;
+        right: 20px;
+    }
+    .hero__play__icon {
+        height: 60px;
+        width: 60px;
+        bottom: 150px;
+    }
+    .hero__play__icon img {
+        width: 20px;
+    }
+    .hero__area .hero__img_4 img {
+        width: 100px;
+    }
+    .hero__area .hero__img_4 {
+        right: 0px;
+        bottom: 125px;
+    }
+    .venoratio.venoratio-16x9.vbox-child {
+        width: 300px;
+    }
+    .vbox-close {
+        right: 5%;
+    }
+    /* hero area end here */
+    .explore__area {
+        padding-bottom: 80px;
+    }
+    .explore__wrapper {
+        padding-top: 120px;
+        gap: 35px;
+    }
+    .explore__area--title {
+        margin-top: 25px;
+    }
+    .explore__area--title .title__text {
+        width: 280px;
+    }
+    .explore__card {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 320px;
+        margin: 0 auto;
+    }
+    .explore__card:first-child .explore__card--desc {
+        font-size: 13px;
+        line-height: normal;
+    }
+    .explore__card:first-child .explore__card--desc .para__style {
+        font-size: 13px;
+    }
+    .explore__card:not(:first-child) .explore__card--desc {
+        font-size: 14px;
+    }
+    .explore__wrapper .explore__card:first-child {
+        padding-right: 0px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) {
+        padding-right: 0px;
+    }
+    .explore__wrapper .explore__card:first-child .explore__card--photo img {
+        height: 270px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) .explore__card--photo img {
+        height: 270px;
+        margin-top: 30px;
+    }
+    .explore__wrapper .explore__card .explore__card--photo {
+        width: 320px !important;
+    }
+    .explore__wrapper .explore__card .explore__card--photo img {
+        height: 270px;
+    }
+    .explore__card .explore__card--desc {
+        margin-bottom: 20px;
+    }
+    .explore__card--icon img {
+        width: 70px;
+    }
+    .explore__wrapper .explore__card:nth-child(2) .explore__card--icon img {
+        padding: 20px 0px;
+    }
+    .explore__card--photo .explore__card--photo--text {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .adventure__area--title img {
+        width: 260px;
+    }
+    .adventure__area--title {
+        padding: 10px 0px;
+    }
+    .adventure__area--title h2 {
+        font-size: 34px;
+        font-style: normal;
+    }
+    .adventure__card__area--wrapper {
+        gap: 30px;
+        padding-bottom: 80px;
+    }
+    .adventure__card--wrapper {
+        grid-template-columns: 350px;
+        gap: 25px 20px;
+        margin-top: 0;
+        justify-content: center;
+    }
+    .adventure__desc {
+        padding-top: 40px;
+        margin: auto;
+        text-align: center;
+    }
+    .adventure__card__area::after {
+        width: 100%;
+    }
+    .adventure__card h3 {
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .adventure__card .adventure__card--btn {
+        width: 55px;
+        height: 55px;
+    }
+    .testimonial__area {
+        padding: 70px 0px 90px 0px;
+    }
+    .testimonial__card__wrapper {
+        padding-top: 0px;
+    }
+    .testimonial__wrapper {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+    .testimonial__area--title {
+        width: 270px;
+    }
+    .testimonial__area--title p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .testimonial__card__wrapper .testimonial {
+        width: 320px;
+        padding: 30px 0px 30px 30px;
+    }
+    .testimonial__area--title h2 {
+        margin-bottom: 15px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .testimonial__card__wrapper.owl-carousel .owl-nav.disabled {
+        left: 250px;
+        top: -220px;
+    }
+    .testimonial .testimonial__rating {
+        gap: 5px;
+    }
+    .testimonial .testimonial__rating img {
+        width: 30px;
+    }
+    .owl-nav button.owl-next, .owl-nav button.owl-prev {
+        height: 45px;
+        width: 45px;
+    }
+    .owl-nav button.owl-next img, .owl-nav button.owl-prev img {
+        width: 30px;
+    }
+    .footer__area {
+        padding-top: 70px;
+    }
+    .menu__wrapper {
+        gap: 30px;
+    }
+
+    .footer__menu__area .logo__area .logo .bfl {
+        width: 140px;
+        height: auto;
+    }
+    .footer__menu__area .logo__area .logo .nfl {
+        width: 200px;
+        height: auto;
+    }
+    .footer__menu__area {
+        padding-bottom: 10px;
+    }
+    .footer__menu__area .menu {
+        gap: 15px !important;
+    }
+    .footer__widget__wrapper {
+        gap: 20px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .footer__widget__wrapper .footer__widget a {
+        font-size: 13px !important;
+    }
+    .footer__brand {
+        padding-left: 0px;
+    }
+    .experience__area {
+        padding: 63px 0px 38px;
+    }
+
+
+      /* home page two start here */
+    .header__area__container {
+        padding: 0;
+    }
+    .header__area_2 .hero__area {
+        height: auto !important;
+    }
+    .header__area_2 {
+        border-radius: 0px;
+    }
+    .header__area_2::after {
+        border-radius: 0px;
+    }
+    .section__title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .para__style__two {
+        font-size: 14px;
+    }
+    .header__area_2 .hero__desc h1 {
+        font-size: 55px;
+        line-height: 1;
+    }
+    .header__area_2 .hero__desc p {
+        margin-bottom: 20px;
+        width: 100%;
+        font-size: 14px;
+    }
+    .header__area_2 .hero__desc {
+        padding: 60px 0px 80px;
+    }
+    .header__area_2 .brand__area {
+        margin-left: 0px;
+        flex-direction: column;
+    }
+    .brand__area .brand__img--one {
+        width: 200px;
+    }
+    .brand__area .brand__img--two {
+        width: 120px;
+    }
+    .brand__area .brand__img--three {
+        width: 130px;
+    }
+    .brand__area .brand__img--four {
+        width: 130px;
+    }
+    .experience__area {
+        padding: 40px 0px 30px;
+    }
+    .experience__area__title {
+        margin-bottom: 30px;
+    }
+    .experience__area__title h2 {
+        flex-basis: 60%;
+    }
+    .experience__area__title p {
+        flex-basis: 40%;
+    }
+    .experience__card__wrapper {
+        grid-template-columns: 340px;
+        gap: 20px;
+        justify-content: center;
+        grid-template-rows: 475px auto;
+    }
+    .experience__card__wrapper--two .single__card--wrapper {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        grid-template-rows: 260px 260px;
+    }
+    .experience__card__wrapper--two {
+        gap: 20px;
+        grid-template-rows: 250px auto;
+    }
+    .experience__card--desc {
+        padding: 0px 37px 46px 25px;
+    }
+    .experience__card--desc h3 {
+        font-size: 30px;
+        line-height: 1;
+    }
+    .explore__photo .explore__photo--text {
+        font-size: 50px;
+        bottom: -23px;
+        line-height: normal;
+    }
+    .explore__wrapper .explore__photo .explore__photo--img {
+        height: 260px;
+    }
+    .explore__wrapper--container .owl-nav button.owl-next, .explore__wrapper--container .owl-nav button.owl-prev {
+        left: 30px;
+    }
+    .explore__wrapper--container .owl-nav button.owl-next, .explore__wrapper--container .owl-nav button.owl-prev {
+        top: 30%;
+    }
+    .explore__wrapper--container .owl-nav button.owl-next {
+        left: auto;
+        right: 30px;
+    }
+    .explore__desc {
+        padding: 25px 25px 25px 40px;
+    }
+    .explore__await__area {
+        padding-bottom: 50px;
+    }
+    .about__area {
+        padding: 70px 0 110px 0;
+    }
+    .about__card {
+        gap: 40px;
+    }
+    .about__card--photo .about__card--img {
+        height: 450px;
+    }
+    .about__card:first-child .about__card--desc {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .about__card .about__card--desc p {
+        font-size: 25px;
+    }
+    .about__card .about__card--btn img {
+        width: 40px;
+    }
+    .about__card:nth-child(2) .about__card--desc p {
+        line-height: 30px;
+    }
+    .about__card .about__card--desc p {
+        margin-bottom: 0px;
+    }
+    .about__card:nth-child(2) .about__card--desc {
+        padding-top: 100px;
+    }
+    .about__card:nth-child(2) {
+        margin-top: 0;
+    }
+    .about__card:nth-child(2) .about__card--desc {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .about__card:last-child .about__card--desc {
+        padding-top: 30px;
+    }
+    .about__card {
+        gap: 0px;
+    }
+    .about__card__wrapper {
+        width: 340px;
+        margin: 0 auto;
+    }
+    .about__card:last-child {
+        margin-top: 0px;
+    }
+    .testimonial__wrapper--two .testimonial__area--title h2 {
+        font-size: 40px;
+        line-height: 45.277px;
+    }
+    /* home page two end here */
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .header__area_2 .hero__desc h1 {
+        font-size: 70px;
+        line-height: 1;
+    }
+}
